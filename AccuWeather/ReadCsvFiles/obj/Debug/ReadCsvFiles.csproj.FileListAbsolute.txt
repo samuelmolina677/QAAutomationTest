@@ -1,0 +1,14 @@
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\AppiumConfiguration.csv
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\Capabilities.csv
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\SauceLabsConfiguration.csv
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\ReadCsvFiles.dll
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\ReadCsvFiles.pdb
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\obj\Debug\ReadCsvFiles.dll
+C:\Users\osmar.garcia\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\obj\Debug\ReadCsvFiles.pdb
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\AppiumConfiguration.csv
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\Capabilities.csv
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\CsvFiles\SauceLabsConfiguration.csv
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\ReadCsvFiles.dll
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\bin\Debug\ReadCsvFiles.pdb
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\obj\Debug\ReadCsvFiles.dll
+C:\Sam\Documents\Visual Studio 2015\Projects\AccuWeather\ReadCsvFiles\obj\Debug\ReadCsvFiles.pdb
